@@ -1,0 +1,7 @@
+Brand: Gibson
+Model: F10
+Strings: 7
+Frets: 22
+Body Material: Maple
+Price: $2390.0
+------------------------

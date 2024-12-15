@@ -1,0 +1,64 @@
+Guitar Type: ElectricGuitar
+Brand: Fender
+Model: Stratocaster
+Strings: 6
+Frets: 22
+Body Material: Alder
+Price: $1500.0
+------------------------
+Guitar Type: ElectricGuitar
+Brand: Gibson
+Model: Les Paul
+Strings: 6
+Frets: 22
+Body Material: Mahogany
+Price: $2500.0
+------------------------
+Guitar Type: AccousticGuitar
+Brand: Yamaha
+Model: F310
+Strings: 6
+Frets: 20
+Body Material: Spruce
+Price: $200.0
+------------------------
+Guitar Type: AccousticGuitar
+Brand: Taylor
+Model: 214CE
+Strings: 6
+Frets: 20
+Body Material: Mahogany
+Price: $800.0
+------------------------
+Guitar Type: BassGuitar
+Brand: Ibanez
+Model: SR300
+Strings: 4
+Frets: 24
+Body Material: Maple
+Price: $500.0
+------------------------
+Guitar Type: BassGuitar
+Brand: Fender
+Model: Precision Bass
+Strings: 4
+Frets: 20
+Body Material: Alder
+Price: $1200.0
+------------------------
+Guitar Type: Ukulele
+Brand: Kala
+Model: KA-T
+Strings: 4
+Frets: 12
+Body Material: Mahogany
+Price: $100.0
+------------------------
+Guitar Type: Ukulele
+Brand: Lanikai
+Model: LU-21
+Strings: 4
+Frets: 12
+Body Material: Maple
+Price: $150.0
+------------------------

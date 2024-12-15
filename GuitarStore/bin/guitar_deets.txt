@@ -1,0 +1,7 @@
+Brand: Gibson
+Model: FA-12
+Strings: 6
+Frets: 22
+Body Material: Maple
+Price: $9999.0
+------------------------
